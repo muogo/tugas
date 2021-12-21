@@ -1,0 +1,72 @@
+body {
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-image: url(../img/amar2.jpeg);
+    background-size: cover;
+}
+
+.jenis {
+    margin-left: 100px;
+}
+
+p.copi {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.container a:hover {
+    background-color: rgb(255, 230, 0);
+    border: 1px solid rgb(2, 82, 255);
+    font-size: 20px;
+}
+
+.container a {
+    background-color: rgb(255, 166, 0);
+    color: rgb(0, 0, 0);
+}
+
+.tabel1 {
+    color: rgb(43, 255, 0);
+}
+
+.tabel11 {
+    color: rgb(255, 255, 255);
+}
+
+li:first-child {
+    color: rgb(217, 255, 0);
+}
+
+li:nth-child(3) {
+    background-color: burlywood;
+}
+
+li:last-child {
+    background-color: rgb(255, 0, 0);
+}
+
+tr {
+    background-repeat: no-repeat;
+    background-image: url(../img/din.jpg);
+    background-size: cover;
+    width: 10px;
+    height: 20px;
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+h2 {
+    color: rgb(102, 255, 0);
+}
+
+p {
+    color: rgb(0, 247, 255);
+}
+
+.pp {
+    color: rgb(212, 0, 255);
+}
